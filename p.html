@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+  #img {
+    width: 15rem;
+    transform: scale(1);
+    transform: translateX(0px);
+    transition: 1.5s;
+    filter: none;
+  }
+
+  #img:hover {
+    transform: scale(1.2);
+     ;
+  }
+
+  
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #0087ca;
+}
+
+.hover-underline-animation::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(1);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #f4880b;
+  transform-origin: bottom left;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover::after {
+  transform: scaleX(0);
+  transform-origin: bottom right;
+}
+
+</style>
+<body>
+  <img src="img/w1.png" id="img" alt="">
+ <span class="hover-underline-animation"></span>
+
+
+  <script>
+   
+ 
+ </script>
+</body>
+</html>

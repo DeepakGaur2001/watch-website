@@ -1,0 +1,264 @@
+@media (max-width:1365.98px) {
+
+    li{
+        margin-left: -5% ! important; }
+    
+      
+
+        .top-main {
+            height: 50.5rem !important;
+          
+          }
+}
+
+
+@media (max-width: 1199.98px) { 
+
+
+    .top-main {
+        height: 45rem !important;
+      
+      }
+
+
+      .watch-1 h6 {
+        padding-left: 26% !important;
+      }
+
+     
+    }
+
+    @media (max-width: 1161px) { 
+
+
+        .top-main {
+            height: 43.8rem !important;
+          
+          }
+    
+         
+        }
+
+    @media (max-width: 1151px) { 
+
+
+        .top-main {
+            height: 43.4rem !important;
+          
+          }
+    
+         
+        }
+
+    @media (max-width: 1145px) { 
+
+
+        .top-main {
+            height: 43rem !important;
+          
+          }
+    
+         
+        }
+
+    @media (max-width: 1129px) { 
+
+
+        .top-main {
+            height: 42.5rem !important;
+          
+          }
+    
+         
+        }
+
+
+        /* tab// Medium devices (tablets, less than 992px) */
+    
+
+@media (max-width: 991.98px) { 
+    .top-main {
+        height: 80rem !important;
+      }
+
+      .classic {
+        margin-top: -5% !important;
+        margin-left: 10% !important;
+      }
+
+      .btbt {
+        margin-top: 6% !important;
+      }
+
+.main-img {
+    margin-left: 13% !important;
+}
+.watch-1 img {
+    width: 150% !important;
+    margin-left: -15%;
+    padding: 15%;
+  }
+}
+
+@media (max-width: 767px) {
+
+
+    .top-main {
+        height: 75rem !important;
+      
+      }
+
+      #img, #img2, #img3, #img4{
+        margin: auto !important;
+        text-align: center !important;
+        height: auto !important;
+        width:  100% !important;
+      }
+
+     
+
+    .btnss {
+  
+        width: 100% !important;
+        height: 6vh !important;
+       margin-left: 15% !important;
+        
+      }
+
+      .btns {
+        margin-top: 5% !important;
+        margin-bottom: 5% !important;
+      }
+
+     
+      li {
+        font-size: 15px !important;
+        padding-top: 5% !important;
+        font-weight: 700;
+      }
+      .watch-1 h6 {
+        padding-left: 0% !important;
+      }
+
+}
+
+@media (max-width: 575.98px) { 
+
+    .top-main {
+        height: 65rem !important;
+      
+      }
+
+      .imgss img {
+        margin-bottom: 18% !important;
+      }
+      .img-dis {
+        margin-bottom: 20% !important;
+      }
+
+      .meet-sub img {
+        margin-bottom: 27% !important;
+      }
+
+      .app {
+        left: 26% !important;
+  bottom: 22% !important;
+      }
+
+      .FOOTBALL {
+        padding-bottom: -5%;
+        font-weight: 700;
+        width: 80%;
+      }
+
+      .hamburger {
+        padding-right: 27px;
+      }
+
+      .widgets.footer-widgets .widget-quick-links ul {
+        text-align: center !important;
+        color: red !important;
+      }
+      .widgets.footer-widgets .single-widget ul {
+        padding-left: 5% !important;
+        margin-bottom: 0;
+      }
+      
+    }
+ 
+    @media (max-width: 479.98px) {
+
+      .top-main {
+        height: 53rem !important;
+      
+      }
+
+       
+        .meet-sub img {
+            margin-bottom: 25% !important;
+          }
+          .app {
+            left: 30% !important;
+   
+          }
+
+          .video {
+            margin-top: 20% !important;
+          }
+
+          .noselect {
+            font-size: 15px !important;
+            letter-spacing: 3px !important;
+            font-weight: 700 !important;
+          }
+
+          .img-dis h3 {
+            letter-spacing: .125rem;
+            font-size: 1.575rem !important;
+            line-height: 1.8 !important; ;
+            font-weight: 700;
+          }
+          .videos-banner {
+      
+            height: auto !important;
+            background-color: aqua !important;
+           
+          }
+
+          .btnsss {
+            width: 8rem !important;
+            margin-top: 15rem !important;
+            margin-bottom: 103px;
+          }
+
+          .classic p {
+            margin-top: 10% !important;
+            font-size: 1.1rem !important;
+          }
+
+
+          .logos {
+            margin-left: 11% !important;
+          }
+    }
+
+    @media (max-width: 420px) {
+
+        .top-main {
+            height: 48rem !important;
+          
+          }
+        .hamburger {
+          margin-right: -20px !important;
+          }
+
+          .classic p {
+            margin-top: 3% !important;
+            font-size: 1.1rem !important;
+          }
+
+          .classic h2 {
+            font-size: 3rem !important;
+          }
+    }
+ 
